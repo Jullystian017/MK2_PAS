@@ -12,44 +12,44 @@
 ## 📸 Screenshot
 
 ### 🏠 Main Menu
-> *Taruh screenshot main menu di sini*
+> 
 
-![Main Menu](screenshots/mainmenu.png)
+![Main Menu](mainmenu.png)
 
 ---
 
 ### 🌄 Level 1
-> *Taruh screenshot level 1 di sini*
+> 
 
 ![Level 1](Level1.png)
 
 ---
 
 ### 🌲 Level 2
-> *Taruh screenshot level 2 di sini*
+> 
 
-![Level 2](screenshots/level2.png)
+![Level 2](Level2.png)
 
 ---
 
 ### 🏔️ Level 3
-> *Taruh screenshot level 3 di sini*
+> 
 
-![Level 3](screenshots/level3.png)
+![Level 3](Level3.png)
 
 ---
 
 ### 💀 Game Over Screen
-> *Taruh screenshot game over di sini*
+> 
 
-![Game Over](screenshots/gameover.png)
+![Game Over](gameover.png)
 
 ---
 
 ### 🏆 Win / Finish Screen
-> *Taruh screenshot finish screen di sini*
+> 
 
-![Finish](screenshots/finish.png)
+![Finish](finish.png)
 
 ---
 
