@@ -21,7 +21,7 @@
 ### 🌄 Level 1
 > *Taruh screenshot level 1 di sini*
 
-![Level 1](screenshots/level1.png)
+![Level 1](Screenshot 2026-05-28 110504.png)
 
 ---
 
