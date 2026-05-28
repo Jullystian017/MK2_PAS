@@ -7,12 +7,32 @@
       "RelativeMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|D:\\Unity\\Hub\\Project\\UH_MK2\\assets\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|solutionrelative:assets\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|D:\\Unity\\Hub\\Project\\UH_MK2\\assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|solutionrelative:assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|D:\\Unity\\Hub\\Project\\UH_MK2\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|D:\\Unity\\Hub\\Project\\UH_MK2\\assets\\healthheartsystem\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|solutionrelative:assets\\healthheartsystem\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|D:\\Unity\\Hub\\Project\\UH_MK2\\assets\\testbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|solutionrelative:assets\\testbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|D:\\Unity\\Hub\\Project\\UH_MK2\\assets\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|solutionrelative:assets\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|D:\\Unity\\Hub\\Project\\UH_MK2\\assets\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|solutionrelative:assets\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99849568-294A-6B0D-A210-E5F66E0FB72F}|Assembly-CSharp.csproj|D:\\Unity\\Hub\\Project\\UH_MK2\\assets\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +54,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraFollow.cs",
+              "ToolTip": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T13:10:32.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\HealthHeartSystem\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\HealthHeartSystem\\Scripts\\PlayerStats.cs",
+              "ToolTip": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\HealthHeartSystem\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\HealthHeartSystem\\Scripts\\PlayerStats.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:58:45.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestButton.cs",
+              "DocumentMoniker": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\TestButton.cs",
+              "RelativeDocumentMoniker": "Assets\\TestButton.cs",
+              "ToolTip": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\TestButton.cs",
+              "RelativeToolTip": "Assets\\TestButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:53:43.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:45:31.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T10:44:54.73Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "player.cs",
-              "DocumentMoniker": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\player.cs",
-              "RelativeDocumentMoniker": "Assets\\player.cs",
-              "ToolTip": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\player.cs",
-              "RelativeToolTip": "Assets\\player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player.cs",
+              "ToolTip": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\Player.cs",
+              "RelativeToolTip": "Assets\\Player.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAswGoBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T03:07:05.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CoinManager.cs",
               "DocumentMoniker": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\CoinManager.cs",
               "RelativeDocumentMoniker": "Assets\\CoinManager.cs",
@@ -59,19 +138,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "coin.cs",
               "DocumentMoniker": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\coin.cs",
               "RelativeDocumentMoniker": "Assets\\coin.cs",
               "ToolTip": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\coin.cs",
               "RelativeToolTip": "Assets\\coin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T02:51:28.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "background.cs",
               "DocumentMoniker": "D:\\Unity\\Hub\\Project\\UH_MK2\\Assets\\background.cs",
               "RelativeDocumentMoniker": "Assets\\background.cs",
